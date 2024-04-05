@@ -17,6 +17,7 @@ You need to have Python installed on your system. The code is intended to run in
 ## Dataset
 
 This project uses the CIFAR-10 dataset, which consists of 60,000 32x32 color images in 10 classes. The dataset is divided into 50,000 training images and 10,000 testing images.
+The Dataset is not uploaded manually instead directly loaded using keras.dataset library
 
 ## Running the Code
 
