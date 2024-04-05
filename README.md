@@ -8,16 +8,16 @@ To run the project, make sure you have the required libraries installed. You can
 
 ```bash
 pip install numpy h5py pandas matplotlib opencv-python keras scikit-learn
+```
 
-
-Prerequisites
+## Prerequisites
 
 You need to have Python installed on your system. The code is intended to run in a Jupyter Notebook environment.
 
-Dataset
+## Dataset
 
 This project uses the CIFAR-10 dataset, which consists of 60,000 32x32 color images in 10 classes. The dataset is divided into 50,000 training images and 10,000 testing images.
 
-Running the Code
+## Running the Code
 
 To run the code, open the provided Jupyter Notebook ImageColourization.ipynb and execute each cell sequentially.
